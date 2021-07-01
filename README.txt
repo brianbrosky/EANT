@@ -1,0 +1,1 @@
+Mi nombre es Brian Brosky, tengo 26 años. Estoy formandome para ser Data Scientist y este es un proyecto de prueba que estoy realizando para el curso de Python Data Developer de EANT.
